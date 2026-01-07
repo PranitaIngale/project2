@@ -1,3 +1,3 @@
 # New Project
 
-This is new project created in local system
+This project was created from local system created by pranita
